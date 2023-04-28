@@ -1,11 +1,11 @@
-Package: com.ienthach.xoainfo
+Package: me.autotouch.autotouch.ios8.inputtext
 Version: 1.0
 Section: Utilities
 Maintainer: Khoaitay
 Architecture: iphoneos-arm
-Filename: ./debs/com.ienthach.xoainfo_2.14-6_iphoneos-arm.deb
-Size: 5734552
-MD5sum: 9CA644D7895DDEB46FD8D6EA00382BB3
+Filename: ./debs/me.autotouch.autotouch.ios8.inputtext_6.1.8-1k_iphoneos-arm.deb
+Size: 44503990
+MD5sum: 9BE61E1D01711051009849ED95557DBC
 Description: An awesome tool of some sort!!
 Name: Khoaitay
 Author: Khoaitay

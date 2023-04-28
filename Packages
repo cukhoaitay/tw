@@ -17,13 +17,13 @@ Author: BlackWings
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
 Name: AutoTouch v6.1.8
 
-Package: com.mins.linhvuauto
+Package: com.mins.Khoaitayauto
 Version: 0.0.1-887+debug
 Architecture: iphoneos-arm
 Maintainer: Mins
 Installed-Size: 6700
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, jetslammed, ws.hbang.common, zip, tar, unzip, gzip, unrar, p7zip
-Filename: ./debs/com.mins.linhvuauto_0.0.1-887+debug_iphoneos-arm.deb
+Filename: ./debs/com.mins.Khoaitayauto_0.0.1-887+debug_iphoneos-arm.deb
 Size: 1247458
 MD5sum: 600271C56ED10B83311146DC7E3FF50B
 SHA1: D4EA6C7816D70EE087BE373E54CF9BB4A20B7DD7
@@ -32,5 +32,23 @@ Section: System
 Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: Mins
-Name: LinhVu
+Name: Khoaitay
+
+Package: com.mins.phuonglinhauto
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Mins
+Installed-Size: 151668
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, jetslammed, ws.hbang.common, zip, tar, unzip, gzip, unrar, p7zip
+Filename: ./debs/160_PL.deb
+Size: 151668
+MD5 Checksum: DCFF0A5E4F866BAA4D37985F2E17C742
+SHA-1 Checksum: 7BFEAE21731415FDE9282D442C4A09CDBDA303CF
+SHA-256 Checksum: 4EE0987563C83620A86E6A3D0393C0CB41B3D2D6F554FCE074C86C23E3020A4A
+SHA-512 Checksum: 6D130EC9FE2A5047C9C395C5857D51B559644A02955EEAB8D19E0D99DA3D616AD0304F489A67D2F34AA2BEF76795A730EA793DB49BCF89FAB5D7E2EB1688B3C1
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: Mins
+Name: Khoaitay
 

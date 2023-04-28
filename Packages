@@ -1,0 +1,16 @@
+Package: Khoaitay
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Khoaitay
+Installed-Size: 1247458
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, jetslammed, ws.hbang.common, zip, tar, unzip, gzip, unrar, p7zip
+Filename: ./debs/backup.deb
+Size: 1247458
+MD5sum: 600271C56ED10B83311146DC7E3FF50B
+SHA1: D4EA6C7816D70EE087BE373E54CF9BB4A20B7DD7
+SHA256: 40275F42113BCA0BA2DB1310EB3A106DDD648DAF9D7286CD6A980F93D11779C6
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: Khoaitay
+Name: Khoaitay

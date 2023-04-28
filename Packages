@@ -1,16 +1,36 @@
-Package: me.autotouch.autotouch.ios8.inputtext
-Version: 1.0
-Section: Utilities
-Maintainer: Khoaitay
+Package: com.blackwings.autotouch.7022
+Version: 7.0.22
 Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
 Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Filename: ./debs/me.autotouch.autotouch.ios8.inputtext_6.1.8-1k_iphoneos-arm.deb
+Filename: ./me.autotouch.autotouch.ios8.inputtext_6.1.8-1k_iphoneos-arm.deb
 Size: 44503990
 MD5sum: 9BE61E1D01711051009849ED95557DBC
-Author: Khoaitay
+SHA1: 423DBFFB0E2667E8675B49F05B121E9BD0097118
+SHA256: 92317ECD0A7BEAB86E9559C11BFF6C2DC2D6D2D916D7E2BE6D408468FF47EF6C
+Section: Utilities
 Priority: optional
 Homepage: https://bwat.ph03nix.club
 Description: Record and playback touch operations, play macro scripts automatically.
+Author: BlackWings
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
 Name: AutoTouch v7.0.22
+
+Package: com.mins.linhvuauto
+Version: 0.0.1-887+debug
+Architecture: iphoneos-arm
+Maintainer: Mins
+Installed-Size: 6700
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, jetslammed, ws.hbang.common, zip, tar, unzip, gzip, unrar, p7zip
+Filename: ./debs/com.mins.linhvuauto_0.0.1-887+debug_iphoneos-arm.deb
+Size: 1247458
+MD5sum: 600271C56ED10B83311146DC7E3FF50B
+SHA1: D4EA6C7816D70EE087BE373E54CF9BB4A20B7DD7
+SHA256: 40275F42113BCA0BA2DB1310EB3A106DDD648DAF9D7286CD6A980F93D11779C6
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: Mins
+Name: LinhVu
+

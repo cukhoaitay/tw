@@ -1,11 +1,11 @@
-Package: com.mins.linhvuauto
+Package: com.captinc.batchomatic
 Version: 1.0
 Section: System
 Maintainer: Khoaitay
 Architecture: iphoneos-arm
-Filename: ./debs/backup.deb
-Size: 1247458
-MD5sum: 600271C56ED10B83311146DC7E3FF50B
+Filename: ./debs/com.captinc.batchomatic_4.3.1_iphoneos-arm.deb
+Size: 109280
+MD5sum: 4B24898127F3EA7391823C9D5828EA81
 Description: An awesome tool of some sort!!
 Name: Khoaitay
 Author: Khoaitay

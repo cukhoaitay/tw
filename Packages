@@ -5,7 +5,7 @@ Maintainer: Khoaitay
 Architecture: iphoneos-arm
 Filename: ./debs/backup.deb
 Size: 1247458
-MD5sum:600271C56ED10B83311146DC7E3FF50B
+MD5sum: 600271C56ED10B83311146DC7E3FF50B
 Description: An awesome tool of some sort!!
 Name: Khoaitay
 Author: Khoaitay

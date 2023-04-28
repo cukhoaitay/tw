@@ -1,11 +1,11 @@
-Package: com.captinc.batchomatic
+Package: com.ienthach.xoainfo
 Version: 1.0
 Section: Utilities
 Maintainer: Khoaitay
 Architecture: iphoneos-arm
-Filename: ./debs/com.captinc.batchomatic_4.3.1_iphoneos-arm.deb
-Size: 109280
-MD5sum: 4B24898127F3EA7391823C9D5828EA81
+Filename: ./debs/com.ienthach.xoainfo_2.14-6_iphoneos-arm.deb
+Size: 5734552
+MD5sum: 9CA644D7895DDEB46FD8D6EA00382BB3
 Description: An awesome tool of some sort!!
 Name: Khoaitay
 Author: Khoaitay

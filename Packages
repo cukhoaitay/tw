@@ -1,6 +1,6 @@
 Package: com.captinc.batchomatic
 Version: 1.0
-Section: System
+Section: Utilities
 Maintainer: Khoaitay
 Architecture: iphoneos-arm
 Filename: ./debs/com.captinc.batchomatic_4.3.1_iphoneos-arm.deb
